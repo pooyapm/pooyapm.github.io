@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jul 2022 20:08:32 +0200</lastBuildDate><atom:link href="https://pooyapm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 22:27:25 +0200</lastBuildDate><atom:link href="https://pooyapm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Solve Chess Puzzles</title>
+      <link>https://pooyapm.github.io/posts/how-to-solve-chess-puzzles/</link>
+      <pubDate>Wed, 27 Jul 2022 22:27:25 +0200</pubDate>
+      
+      <guid>https://pooyapm.github.io/posts/how-to-solve-chess-puzzles/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>This is the title of the Post</title>
       <link>https://pooyapm.github.io/posts/post/</link>
