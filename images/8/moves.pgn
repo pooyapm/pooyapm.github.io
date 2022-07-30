@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/7p/1p1RpPbP/6P1/1P3B2/2r4r/4RK2 w - - 3 37"]
+[FirstMove "37w"]
+[Puzzle_Length "3"]
+
+37. Rdxe5 Rhf2+ (37... b4) 38. Kg1 Rxf3 39. Re8+ Kh7 *
