@@ -28,34 +28,6 @@ Zalando’s key markets are european countries. Zalando’s vision and strategy 
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
 </noscript><meta property="og:title" content="A Strategic Marketing Plan: Zalando" />
 <meta property="og:description" content="Section 1: Analysis 1.1 Context Zalando is Europe&rsquo;s leading online fashion platform, selling all fashion products in all assortments from over 3000&#43; international and local brands as well as its own private brand products. It is currently operating in 17 european countries. It was established in 2008 in Berlin as a pioneering e-commerce shoe selling platform.
 Zalando’s key markets are european countries. Zalando’s vision and strategy for the coming years is to grow." />
@@ -124,10 +96,6 @@ Zalando’s key markets are european countries. Zalando’s vision and strategy 
 <body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
