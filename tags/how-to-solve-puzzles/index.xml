@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>how to solve puzzles on Pooya Mozzemi&#39; Blog</title>
+    <link>/tags/how-to-solve-puzzles/</link>
+    <description>Recent content in how to solve puzzles on Pooya Mozzemi&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2022 22:27:25 +0200</lastBuildDate><atom:link href="/tags/how-to-solve-puzzles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Solve Chess Puzzles</title>
+      <link>/posts/how-to-solve-chess-puzzles/</link>
+      <pubDate>Wed, 27 Jul 2022 22:27:25 +0200</pubDate>
+      
+      <guid>/posts/how-to-solve-chess-puzzles/</guid>
+      <description>Have you ever seen a chess puzzle in a position you don&amp;rsquo;t know what to do or where to start thinking about it? or you select a move and you think this was the best move and then see it was wrong? Here, I try to introduce a systematic way to analyze chess puzzles and solve them. This can be used as a framework so right after you see the position you know exactly where to start and check for alternative solutions.</description>
+    </item>
+    
+  </channel>
+</rss>
