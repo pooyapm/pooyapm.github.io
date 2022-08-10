@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pooyapm.github.io/posts/how-to-design-sw-products/</loc>
-    <lastmod>2022-08-06T13:00:22+02:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
   </url><url>
-    <loc>https://pooyapm.github.io/</loc>
-    <lastmod>2022-08-06T13:00:22+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
   </url><url>
-    <loc>https://pooyapm.github.io/posts/</loc>
-    <lastmod>2022-08-06T13:00:22+02:00</lastmod>
+    <loc>/categories/soft-skills/</loc>
+    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
   </url><url>
-    <loc>https://pooyapm.github.io/posts/a-strategic-marketing-plan-zalando/</loc>
+    <loc>/soft-skills/</loc>
+    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
+  </url><url>
+    <loc>/soft-skills/the-main-skills-you-need-for-success/</loc>
+    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
+  </url><url>
+    <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
     <lastmod>2022-08-01T20:11:53+02:00</lastmod>
   </url><url>
-    <loc>https://pooyapm.github.io/posts/how-to-solve-chess-puzzles/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2022-08-01T20:11:53+02:00</lastmod>
+  </url><url>
+    <loc>/posts/how-to-solve-chess-puzzles/</loc>
     <lastmod>2022-07-27T22:27:25+02:00</lastmod>
   </url><url>
-    <loc>https://pooyapm.github.io/categories/</loc>
-  </url><url>
-    <loc>https://pooyapm.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

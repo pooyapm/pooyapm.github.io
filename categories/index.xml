@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Pooya Mozzemi&#39; Blog</title>
-    <link>https://pooyapm.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Pooya Mozzemi&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pooyapm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 21:47:46 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soft Skills</title>
+      <link>/categories/soft-skills/</link>
+      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      
+      <guid>/categories/soft-skills/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
