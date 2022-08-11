@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Product Management on Pooya Mozzemi&#39; Blog</title>
+    <link>/categories/product-management/</link>
+    <description>Recent content in Product Management on Pooya Mozzemi&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Design SW Products</title>
+      <link>/posts/how-to-design-sw-products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-design-sw-products/</guid>
+      <description>Identify functionality and use cases
+This is the complete functionality of your SW system. This is what the system is built for. At this step all the functionalities and use cases of the system must be clarified. Normally, a SW system takes some inputs and then it performs some processing on it and then it returns some output or takes action as the result.
+Example of static website generator
+Identify characteristics of your product and system</description>
+    </item>
+    
+  </channel>
+</rss>

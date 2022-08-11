@@ -2,61 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/communication/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/learning/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/pooya-moazzeni/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/pooya-mozzemi/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/problem-solving/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/soft-skills/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/categories/soft-skills/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
-    <loc>/posts/the-main-skills-you-need-for-success/</loc>
-    <lastmod>2022-08-08T21:47:46+02:00</lastmod>
-  </url><url>
     <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
-    <lastmod>2022-08-01T20:11:53+02:00</lastmod>
   </url><url>
     <loc>/tags/business-manaement/</loc>
-    <lastmod>2022-08-01T20:11:53+02:00</lastmod>
   </url><url>
     <loc>/categories/business-management/</loc>
-    <lastmod>2022-08-01T20:11:53+02:00</lastmod>
   </url><url>
-    <loc>/tags/strategic-marketing-plan/</loc>
-    <lastmod>2022-08-01T20:11:53+02:00</lastmod>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/communication/</loc>
+  </url><url>
+    <loc>/posts/how-to-design-sw-products/</loc>
   </url><url>
     <loc>/posts/how-to-solve-chess-puzzles/</loc>
-    <lastmod>2022-07-27T22:27:25+02:00</lastmod>
   </url><url>
     <loc>/tags/how-to-solve-puzzles/</loc>
-    <lastmod>2022-07-27T22:27:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/learning/</loc>
+  </url><url>
+    <loc>/tags/pooya-moazzeni/</loc>
+  </url><url>
+    <loc>/tags/pooya-mozzemi/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/posts/</loc>
+  </url><url>
+    <loc>/tags/problem-solving/</loc>
+  </url><url>
+    <loc>/categories/product-management/</loc>
+  </url><url>
+    <loc>/tags/soft-skills/</loc>
+  </url><url>
+    <loc>/categories/soft-skills/</loc>
+  </url><url>
+    <loc>/tags/software-desing/</loc>
   </url><url>
     <loc>/tags/solve-chess-puzzles/</loc>
-    <lastmod>2022-07-27T22:27:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/strategic-marketing-plan/</loc>
+  </url><url>
+    <loc>/tags/system-design/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/categories/technology/</loc>
+  </url><url>
+    <loc>/posts/the-main-skills-you-need-for-success/</loc>
   </url>
 </urlset>

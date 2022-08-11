@@ -5,24 +5,23 @@
     <link>/tags/problem-solving/</link>
     <description>Recent content in problem solving on Pooya Mozzemi&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 21:47:46 +0200</lastBuildDate><atom:link href="/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Main Skills You Need for Success</title>
-      <link>/posts/the-main-skills-you-need-for-success/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
-      
-      <guid>/posts/the-main-skills-you-need-for-success/</guid>
-      <description>Hi, the main skills you need for success are here.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Solve Chess Puzzles</title>
       <link>/posts/how-to-solve-chess-puzzles/</link>
-      <pubDate>Wed, 27 Jul 2022 22:27:25 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/how-to-solve-chess-puzzles/</guid>
       <description>Have you ever seen a chess puzzle in a position you don&amp;rsquo;t know what to do or where to start thinking about it? or you select a move and you think this was the best move and then see it was wrong? Here, I try to introduce a systematic way to analyze chess puzzles and solve them. This can be used as a framework so right after you see the position you know exactly where to start and check for alternative solutions.</description>
+    </item>
+    
+    <item>
+      <title>The Main Skills for Success</title>
+      <link>/posts/the-main-skills-you-need-for-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-main-skills-you-need-for-success/</guid>
+      <description>Hi, the main skills you need for success are here.</description>
     </item>
     
   </channel>

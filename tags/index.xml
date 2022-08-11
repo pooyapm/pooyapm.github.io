@@ -5,21 +5,38 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Pooya Mozzemi&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 21:47:46 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business manaement</title>
+      <link>/tags/business-manaement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/business-manaement/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>communication</title>
       <link>/tags/communication/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>how to solve puzzles</title>
+      <link>/tags/how-to-solve-puzzles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/how-to-solve-puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>learning</title>
       <link>/tags/learning/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/learning/</guid>
       <description></description>
@@ -28,7 +45,7 @@
     <item>
       <title>pooya moazzeni</title>
       <link>/tags/pooya-moazzeni/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/pooya-moazzeni/</guid>
       <description></description>
@@ -37,7 +54,7 @@
     <item>
       <title>pooya mozzemi</title>
       <link>/tags/pooya-mozzemi/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/pooya-mozzemi/</guid>
       <description></description>
@@ -46,7 +63,7 @@
     <item>
       <title>problem solving</title>
       <link>/tags/problem-solving/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/problem-solving/</guid>
       <description></description>
@@ -55,45 +72,45 @@
     <item>
       <title>soft skills</title>
       <link>/tags/soft-skills/</link>
-      <pubDate>Mon, 08 Aug 2022 21:47:46 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/soft-skills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>business manaement</title>
-      <link>/tags/business-manaement/</link>
-      <pubDate>Mon, 01 Aug 2022 20:11:53 +0200</pubDate>
+      <title>software desing</title>
+      <link>/tags/software-desing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/business-manaement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>strategic marketing plan</title>
-      <link>/tags/strategic-marketing-plan/</link>
-      <pubDate>Mon, 01 Aug 2022 20:11:53 +0200</pubDate>
-      
-      <guid>/tags/strategic-marketing-plan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>how to solve puzzles</title>
-      <link>/tags/how-to-solve-puzzles/</link>
-      <pubDate>Wed, 27 Jul 2022 22:27:25 +0200</pubDate>
-      
-      <guid>/tags/how-to-solve-puzzles/</guid>
+      <guid>/tags/software-desing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solve chess puzzles</title>
       <link>/tags/solve-chess-puzzles/</link>
-      <pubDate>Wed, 27 Jul 2022 22:27:25 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/solve-chess-puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strategic marketing plan</title>
+      <link>/tags/strategic-marketing-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/strategic-marketing-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system design</title>
+      <link>/tags/system-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/system-design/</guid>
       <description></description>
     </item>
     
