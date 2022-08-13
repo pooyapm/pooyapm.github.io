@@ -18,6 +18,15 @@ Zalando’s key markets are european countries. Zalando’s vision and strategy 
     </item>
     
     <item>
+      <title>About Me</title>
+      <link>/posts/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about-me/</guid>
+      <description>About me page.</description>
+    </item>
+    
+    <item>
       <title>How to Design SW Products?</title>
       <link>/posts/how-to-design-sw-products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
