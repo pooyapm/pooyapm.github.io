@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-08-13T16:28:18+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-08-13T16:28:18+02:00</lastmod>
+  </url><url>
+    <loc>/categories/soft-skills/</loc>
+    <lastmod>2022-08-13T16:28:18+02:00</lastmod>
+  </url><url>
     <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
   </url><url>
     <loc>/tags/business-manaement/</loc>
   </url><url>
     <loc>/categories/business-management/</loc>
-  </url><url>
-    <loc>/categories/</loc>
   </url><url>
     <loc>/tags/communication/</loc>
   </url><url>
@@ -24,8 +31,6 @@
   </url><url>
     <loc>/tags/pooya-mozzemi/</loc>
   </url><url>
-    <loc>/</loc>
-  </url><url>
     <loc>/posts/</loc>
   </url><url>
     <loc>/tags/problem-solving/</loc>
@@ -33,8 +38,6 @@
     <loc>/categories/product-management/</loc>
   </url><url>
     <loc>/tags/soft-skills/</loc>
-  </url><url>
-    <loc>/categories/soft-skills/</loc>
   </url><url>
     <loc>/tags/software-desing/</loc>
   </url><url>
