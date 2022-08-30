@@ -13,7 +13,9 @@
   </url><url>
     <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
   </url><url>
-    <loc>/posts/about-me/</loc>
+    <loc>/about-me/about-me/</loc>
+  </url><url>
+    <loc>/about-me/</loc>
   </url><url>
     <loc>/tags/business-manaement/</loc>
   </url><url>
@@ -21,13 +23,23 @@
   </url><url>
     <loc>/tags/communication/</loc>
   </url><url>
+    <loc>/posts/how-to-be-a-good-mentor/</loc>
+  </url><url>
+    <loc>/posts/how-to-communicate-effectively-for-mutual-understanding-and-influence/</loc>
+  </url><url>
     <loc>/posts/how-to-design-sw-products/</loc>
   </url><url>
+    <loc>/posts/how-to-present-complex-technical-concepts-to-nontechnical-stakeholders/</loc>
+  </url><url>
     <loc>/posts/how-to-solve-chess-puzzles/</loc>
+  </url><url>
+    <loc>/posts/how-to-solve-complicated-problems/</loc>
   </url><url>
     <loc>/tags/how-to-solve-puzzles/</loc>
   </url><url>
     <loc>/tags/learning/</loc>
+  </url><url>
+    <loc>/tags/policy-gradient-theorem/</loc>
   </url><url>
     <loc>/tags/pooya-moazzeni/</loc>
   </url><url>
@@ -53,6 +65,14 @@
   </url><url>
     <loc>/categories/technology/</loc>
   </url><url>
+    <loc>/posts/the-lte-epc-and-5g-core-differences/</loc>
+  </url><url>
+    <loc>/posts/the-main-reinforcement-learning-theorem/</loc>
+  </url><url>
     <loc>/posts/the-main-skills-you-need-for-success/</loc>
+  </url><url>
+    <loc>/posts/the-true-meaning-of-machine-learning/</loc>
+  </url><url>
+    <loc>/tags/what-is-machine-learning/</loc>
   </url>
 </urlset>

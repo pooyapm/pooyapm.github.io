@@ -15,7 +15,29 @@
       <description>Identify functionality and use cases
 This is the complete functionality of your SW system. This is what the system is built for. At this step all the functionalities and use cases of the system must be clarified. Normally, a SW system takes some inputs and then it performs some processing on it and then it returns some output or takes action as the result.
 Example of static website generator
-Identify characteristics of your product and system</description>
+The first move.</description>
+    </item>
+    
+    <item>
+      <title>The Main Reinforcement Learning Theorem</title>
+      <link>/posts/the-main-reinforcement-learning-theorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-main-reinforcement-learning-theorem/</guid>
+      <description>True meaning of ML Policy iteration method Linear vs. non-linear models Main theorem Policy gradient theorem Explanation of main theorem How does it optimize?</description>
+    </item>
+    
+    <item>
+      <title>The True Meaning of Machine Learning</title>
+      <link>/posts/the-true-meaning-of-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-true-meaning-of-machine-learning/</guid>
+      <description>The true meaning of machine learning
+most people just use it
+function
+linear versus nonlinear
+neural network and deep learning and why it is so powerful</description>
     </item>
     
   </channel>
