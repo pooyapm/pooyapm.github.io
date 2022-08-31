@@ -7,12 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
+      <title></title>
       <link>/about-me/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-me/about-me/</guid>
-      <description>This is the about me page.</description>
+      <description>Hello,
+This is Pooya. In this blog, I write my thoughts on different topics from technology to critical skills necessary for today’s world, business, leadership, management, psychology, economy and even geopolitical trends which may impact the macroeconomic environment and business sectors and corporations.
+Whenever I have failed at something in life or improved something I tried to develop a framework or process for it to improve and here, I am sharing it with you.</description>
     </item>
     
   </channel>

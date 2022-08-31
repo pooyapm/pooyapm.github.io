@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
+  </url><url>
+    <loc>/posts/how-to-solve-chess-puzzles/</loc>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-08-13T16:28:18+02:00</lastmod>
   </url><url>
@@ -10,8 +14,6 @@
   </url><url>
     <loc>/categories/soft-skills/</loc>
     <lastmod>2022-08-13T16:28:18+02:00</lastmod>
-  </url><url>
-    <loc>/posts/a-strategic-marketing-plan-zalando/</loc>
   </url><url>
     <loc>/about-me/about-me/</loc>
   </url><url>
@@ -30,8 +32,6 @@
     <loc>/posts/how-to-design-sw-products/</loc>
   </url><url>
     <loc>/posts/how-to-present-complex-technical-concepts-to-nontechnical-stakeholders/</loc>
-  </url><url>
-    <loc>/posts/how-to-solve-chess-puzzles/</loc>
   </url><url>
     <loc>/posts/how-to-solve-complicated-problems/</loc>
   </url><url>
